@@ -1,0 +1,101 @@
+########################################################
+### macOS ###
+########################################################
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+########################################################
+### Eclipse ###
+########################################################
+
+*.pydevproject
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+.buildpath
+
+# Eclipse Core
+.externalToolBuilders/
+.remoteprojects
+.cproject
+
+# CDT-specific
+*.launch
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbt directories
+target/
+
+########################################################
+### JetBrains / IntelliJ IDEA ###
+########################################################
+
+# User-specific stuff
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ out directory
+out/
+
+# Android studio
+.gradle/
+local.properties
+*.hprof
+
+# OS X
+.idea_modules/
+.DS_Store
+
+# JetBrains Rider
+.idea/
+
+########################################################
+### Java ###
+########################################################
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Other
+tmp/
+
